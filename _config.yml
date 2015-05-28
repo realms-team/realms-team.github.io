@@ -29,7 +29,7 @@ people:
 
 - name: Steven Glaser
   pic: steven_glaser
-  position: Professor at UC Berkeley, REALMS co-PI
+  position: Professor at UC Berkeley<br/>REALMS co-PI
   social:
     - title: globe
       url: http://glaser.berkeley.edu/
