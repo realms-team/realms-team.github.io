@@ -2,9 +2,9 @@ url: https://realms-team.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: REALMS
+email: thomas.watteyne@inria.fr
+description: "Real-Time Real-World Monitoring Systems. Associate research team between Inria, UC Berkeley and the University of Michigan"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Thomas Watteyne
+  pic: thomas_watteyne
+  position: co-PI
   social:
     - title: twitter
       url: #
