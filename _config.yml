@@ -18,12 +18,14 @@ people:
   pic: thomas_watteyne
   position: co-PI
   social:
+    - title: globe
+      url: https://twatteyne.wordpress.com/
     - title: linkedin
       url: https://fr.linkedin.com/in/thomaswatteyne
     - title: github
       url: https://github.com/twatteyne
-    - title: globe
-      url: https://twatteyne.wordpress.com/
+    - title: bitbucket
+      url: https://bitbucket.org/twatteyne/profile/activity
 
 - name: Steven Glaser
   pic: steven_glaser
