@@ -16,7 +16,7 @@ color:
 people:
 - name: Thomas Watteyne
   pic: thomas_watteyne
-  position: Research Scientist & Innovator at Inria, REALMS co-PI
+  position: Research Scientist & Innovator<br/>Inria, EVA team, Rocquencourt, France<br/>REALMS co-PI
   social:
     - title: globe
       url: https://twatteyne.wordpress.com/
@@ -29,14 +29,14 @@ people:
 
 - name: Steven Glaser
   pic: steven_glaser
-  position: Professor at UC Berkeley, REALMS co-PI
+  position: Professor, Systems Engineering<br/>UC Berkeley, California, USA<br/>REALMS co-PI
   social:
     - title: globe
       url: http://glaser.berkeley.edu/
 
 - name: Branko Kerkez
   pic: branko_kerkez
-  position: Assistant Professor at the University of Michigan, REALMS co-PI
+  position: Assistant	Professor,	Systems<br/>University of Michigan, Ann Arbor, USA<br/>REALMS co-PI
   social:
     - title: globe
       url: http://www-personal.umich.edu/~bkerkez/
