@@ -16,7 +16,7 @@ color:
 people:
 - name: Thomas Watteyne
   pic: thomas_watteyne
-  position: co-PI
+  position: Research Scientist & Innovator at Inria, REALMS co-PI
   social:
     - title: globe
       url: https://twatteyne.wordpress.com/
@@ -29,25 +29,21 @@ people:
 
 - name: Steven Glaser
   pic: steven_glaser
-  position: co-PI
+  position: Professor at UC Berkeley, REALMS co-PI
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: globe
+      url: http://glaser.berkeley.edu/
 
 - name: Branko Kerkez
   pic: branko_kerkez
-  position: co-PI
+  position: Assistant Professor at the University of Michigan, REALMS co-PI
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: globe
+      url: http://www-personal.umich.edu/~bkerkez/
+    - title: linkedin
+      url: http://lnkd.in/di6BeFg
+    - title: github
+      url: https://github.com/kLabUM
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
