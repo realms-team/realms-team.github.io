@@ -18,16 +18,16 @@ people:
   pic: thomas_watteyne
   position: co-PI
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://fr.linkedin.com/in/thomaswatteyne
+    - title: github
+      url: https://github.com/twatteyne
+    - title: terminal
+      url: https://twatteyne.wordpress.com/
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Steven Glaser
+  pic: steven_glaser
+  position: co-PI
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Branko Kerkez
+  pic: branko_kerkez
+  position: co-PI
   social:
     - title: twitter
       url: #
