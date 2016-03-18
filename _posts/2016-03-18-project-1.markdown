@@ -4,8 +4,8 @@ subtitle: Real-Time SOL Visualizer
 layout: default
 modal-id: 1
 date: 2016-03-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: grafana.png
+thumbnail: grafana.png
 alt: image-alt
 project-date: March 2016
 description: SOL Data can now be visualized in live using a Grafana dashboard
